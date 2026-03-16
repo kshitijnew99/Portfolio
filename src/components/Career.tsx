@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          Education <span>&</span>
+          <br /> Certifications
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,43 +15,39 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>B.Tech in Computer Science Engineering</h4>
+                <h5>Indian Institute of Information Technology, Nagpur</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2027</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Expected graduation in 2027.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Class XII (CBSE) - 84.6%</h4>
+                <h5>Kendriya Vidyalaya, Aliganj, Lucknow</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Completed higher secondary education.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Certifications</h4>
+                <h5>Google Cloud & Kaggle</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Gen AI</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Gen AI Academy 2.0 (DevOps Track) — Google Cloud.
+              5-Day AI Agents Intensive — Kaggle × Google.
+              Foundational Level in Programming and Data Science — IIT Madras.
             </p>
           </div>
         </div>
