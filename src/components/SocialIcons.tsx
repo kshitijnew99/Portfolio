@@ -65,22 +65,22 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="#" target="_blank">
+          <a href="https://www.linkedin.com/in/kshitijraoranjan" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
         <span>
-          <a href="#" target="_blank">
+          <a href="https://x.com/work_kshitij" target="_blank">
             <FaXTwitter />
           </a>
         </span>
         <span>
-          <a href="#" target="_blank">
+          <a href="https://www.instagram.com/kshitijraoranjan/" target="_blank">
             <FaInstagram />
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#">
+      <a className="resume-button" href="https://drive.google.com/file/d/1kN8i1y95E-rsIIetXp61sDk4Pqxq1k_u/view" target="_blank">
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
