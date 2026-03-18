@@ -41,8 +41,7 @@
 }
 
 .carousel-slide {
-  min-width: 100%;
-  flex-shrink: 0;
+  flex: 0 0 100%;
   box-sizing: border-box;
   padding: 50px 0;
 }
@@ -59,6 +58,7 @@
   display: flex;
   gap: 30px;
   align-items: flex-start;
+  min-width: 0;
 }
 
 .carousel-number h3 {
@@ -112,6 +112,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  min-width: 0;
 }
 
 /* ── Navigation Arrows ── */
